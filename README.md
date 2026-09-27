@@ -1,11 +1,16 @@
 # Quality Vision Inspector
 
-Computer-vision quality inspection — defect detection, SPC alerts and traceability — part of the [Zion App Network](https://ziontechgroup.com/zion-app-network/) by [Zion Tech Group](https://ziontechgroup.com).
+Computer-vision quality inspection — defect detection, SPC alerts and end-to-end traceability.
 
-**Live app:** https://ziontechgroup.com/quality-vision-inspector/
+**Live:** https://ziontechgroup.com/quality-vision-inspector/
 
 ## Features
-- Computer-vision defect detection on the line
-- SPC alerts and control charts
-- Full lot/serial traceability
-- Interlinked with Factory Energy Optimizer, OEE Dashboard AI and Predictive Maintenance AI for a complete smart-factory stack
+- Visual defect detection models trainable from a few hundred images
+- SPC control charts with automated out-of-control alerts
+- Lot and serial traceability from raw material to shipment
+- Edge deployment for inline inspection at line speed
+
+## Part of the Zion App Network
+See [ZION_APP_NETWORK.md](ZION_APP_NETWORK.md) for the full app network and related tools.
+
+— © 2026 Zion Tech Group · https://ziontechgroup.com
